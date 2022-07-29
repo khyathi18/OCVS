@@ -3,7 +3,7 @@
 
 from web import myapp
 import unittest
-
+import urllib3
 # python -m unittest test_app
 
 
@@ -25,3 +25,4 @@ class TestMyApp(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+    urllib3.disable_warnings()
