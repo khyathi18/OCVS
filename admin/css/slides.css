@@ -1,0 +1,38 @@
+/*
+	Comment
+*/
+
+section,footer
+{
+	display:block
+}
+img
+{
+margin-bottom:-5px;
+}
+a
+{
+color:inherit
+}
+.container
+{
+padding:0.01em 16px
+}
+.w_center
+{
+text-align:center!important
+}
+.w-content{max-width:980px;margin:auto}
+h2{
+font-weight:600;margin:15px 0
+}
+.w-wide{
+letter-spacing:4px
+}
+.w-justify{
+text-align:justify!important
+}
+.w-medium
+{
+font-size:15px!important
+}
